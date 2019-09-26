@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<contact
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="employee.xsd">
+<name>Thanu</name>
+<company>Tiger Soft</company>
+<phone>123</phone>
+</contact>
